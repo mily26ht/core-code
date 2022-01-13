@@ -18,14 +18,30 @@ El pseudocodigo es bastante util, una de las ventas de realizar pseudocodigos es
 mejoramiento del analisis para la resolución de problemas hasta volverse meticuloso.
 
 ### Pseudocódigo para calcular la edad aproximada de los usuarios
-1-START
-2-Definir variables Año Actual=2022, Año Nacimiento,Edad.
-3-Para saber su edad, ingrese su Año de nacimiento:___ (Guarda valor en la variable Año Nacimiento)
-4-Se realiza la operación aritmetica y se guarda en la variable edad; edad= Año actual - Año Nacimiento.
-5-Se imprime el resultado (Su edad actual es: __)
-6-END
+1. START
+2. Definir variables Año Actual=2022, Año Nacimiento,Edad.
+3. Para saber su edad, ingrese su Año de nacimiento:__ (Guarda valor en la variable Año Nacimiento)
+4. Se realiza la operación aritmetica y se guarda en la variable edad; edad= Año actual - Año Nacimiento.
+5. Se imprime el resultado (Su edad actual es: __ )
+6. END
 
 ### ¿Por qué los diagramas de flujo son importantes para nosotros como desarrolladores?
+Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo informático, y es de mucha importancia ya que facilita la manera de representar visualmente el flujo de datos
+
+| Lenguaje de Alto Nivel  | Lenguaje de Bajo Nivel |
+| ----------------------- | ---------------------- |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
+|                         |                        |
 
   ## Referencia
   -Escobar, G. (06 de Nov de 2017). make it real camp. Obtenido de https://blog.makeitreal.camp/lenguajes-compilados-e-interpretados/
