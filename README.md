@@ -28,20 +28,18 @@ mejoramiento del analisis para la resolución de problemas hasta volverse meticu
 ### ¿Por qué los diagramas de flujo son importantes para nosotros como desarrolladores?
 Un diagrama de flujo es un diagrama que describe un proceso, sistema o algoritmo informático, y es de mucha importancia ya que facilita la manera de representar visualmente el flujo de datos
 
+###  Lenguajes de programación
 | Lenguaje de Alto Nivel  | Lenguaje de Bajo Nivel |
 | ----------------------- | ---------------------- |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
-|                         |                        |
+|tipo de lenguaje de programación que no expresa los algoritmos teniendo en cuenta la capacidad que tienen las máquinas para ejecutar órdenes, sino al que se utiliza teniendo en cuenta las capacidades cognitivas de los seres humanos.                         |  es aquel en el que sus instrucciones ejercen un control directo sobre el hardware y por lo tanto están condicionados por la estructura física de las computadoras que lo soportan                      |
+
+## Desafio de la Semana- Día Miercoles 12-01-22
+### Aprende sobre números binarios, decimales y hexadecimales
+|  Binarios               |   El sistema binario es un sistema de numeración en el que se utiliza la base aritmética 2. Este sistema es el utilizado por los ordenadores y sistemas digitales.                      |
+| :----:|  :---   |
+|  Decimales              |  Es un sistema de numeración posicional en el que las cantidades son representadas mediante la base aritmética del número diez.                       |
+|  Hexadecimales          |  el sistema de numeración decimal es un sistema de numeración posicional que tiene con base el número 16.                        |
+
 
   ## Referencia
   -Escobar, G. (06 de Nov de 2017). make it real camp. Obtenido de https://blog.makeitreal.camp/lenguajes-compilados-e-interpretados/
